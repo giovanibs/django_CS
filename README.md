@@ -1,4 +1,4 @@
-# Django Blog Tutorial by COrey Shafer
+# Django Blog Tutorial by Corey Shafer
 
 This is a repo for saving the Django tutorial series by Corey Schafer.
 
